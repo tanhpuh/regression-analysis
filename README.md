@@ -13,7 +13,7 @@ Regression analysis is widely used in data science, economics, and various domai
 - Step-by-step scripts for understanding regression models.
 - Visualization tools to display regression lines and model performance.
 - Examples of hyperparameter tuning for advanced regressors.
-- Performance evaluation metrics (e.g., R², MAE, RMSE).
+- Performance evaluation metrics (e.g., R², p-value, VIF, Durbin-Watson, F, t (student)).
 
 # 📊 File
 Regression Analysis.ipynb
