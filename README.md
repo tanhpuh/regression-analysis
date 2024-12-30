@@ -8,9 +8,13 @@ Regression analysis is widely used in data science, economics, and various domai
 - Ridge and Lasso Regression
 - Advanced techniques like Support Vector Regression (SVR) and Decision Tree Regression
 
- # ✨ Features
+# ✨ Features
 - Preprocessed datasets for easy testing.
 - Step-by-step scripts for understanding regression models.
 - Visualization tools to display regression lines and model performance.
 - Examples of hyperparameter tuning for advanced regressors.
 - Performance evaluation metrics (e.g., R², MAE, RMSE).
+
+# 📊 File
+Regression Analysis.ipynb
+Link: [https://github.com/tanhpuh/statistical-analysis/blob/main/Statistical%20Analysis.ipynb](https://github.com/tanhpuh/regression-analysis/blob/main/Regression%20Analysis.ipynb)
