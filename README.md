@@ -3,10 +3,9 @@ Regression analysis is widely used in data science, economics, and various domai
 
 - Linear Regression
 - Multiple Linear Regression
-- Polynomial Regression
-- Logistic Regression
-- Ridge and Lasso Regression
-- Advanced techniques like Support Vector Regression (SVR) and Decision Tree Regression
+- Nonlinear Regression
+- Regression with Dummy Variables
+- Binary Logistic
 
 # ✨ Features
 - Preprocessed datasets for easy testing.
