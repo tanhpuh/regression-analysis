@@ -15,5 +15,5 @@ Regression analysis is widely used in data science, economics, and various domai
 - Performance evaluation metrics (e.g., R², p-value, VIF, Durbin-Watson, F, t (student)).
 
 # 📊 File
-Regression Analysis.ipynb
-Link: [https://github.com/tanhpuh/statistical-analysis/blob/main/Statistical%20Analysis.ipynb](https://github.com/tanhpuh/regression-analysis/blob/main/Regression%20Analysis.ipynb)
+- Regression Analysis.ipynb
+- Link: [https://github.com/tanhpuh/statistical-analysis/blob/main/Statistical%20Analysis.ipynb](https://github.com/tanhpuh/regression-analysis/blob/main/Regression%20Analysis.ipynb)
