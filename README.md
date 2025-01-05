@@ -3,7 +3,7 @@ Regression analysis is widely used in data science, economics, and various domai
 
 - Linear Regression
 - Multiple Linear Regression
-- Nonlinear Regression
+- Non-linear Regression
 - Regression with Dummy Variables
 - Binary Logistic Regression
 
